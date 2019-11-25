@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [世界，你好！](http://aizz.life/hello-solo)
+* [世界，你好！](http://aizz.life:88/hello-solo)
 
 
 
